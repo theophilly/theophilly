@@ -12,7 +12,7 @@ Since I learnt to code, I have always felt in love with the art of programming. 
 
 Beside programming, I love travelling, spending time with my family, reading books and playing football.
 
-### I'm currently looking for my first entry level opportunity as a software developer
+### I'm currently looking for an entry level opportunity as a software developer
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
