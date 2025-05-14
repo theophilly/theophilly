@@ -14,12 +14,10 @@ Beside programming, I love travelling, spending time with my family, reading boo
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
-📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
 
 [website]: https://adeyemikolade.vercel.app/
 [twitter]: https://twitter.com/theodasa
-[instagram]: https://instagram.com/theophillysg
 [linkedin]: https://www.linkedin.com/in/adeyemi-kolade-56b729213/
 
